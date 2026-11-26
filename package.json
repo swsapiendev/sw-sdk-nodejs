@@ -2,7 +2,7 @@
   "name": "sw-sdk-nodejs",
   "version": "2.4.0",
   "description": "Node.js Library for SW Services",
-  "homepage": "https://github.com/lunasoft/sw-sdk-nodejs",
+  "homepage": "https://github.com/swsapiendev/sw-sdk-nodejs",
   "authors": [
     {
       "name": "Aeyrton Villalobos",
@@ -35,7 +35,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lunasoft/sw-sdk-nodejs.git"
+    "url": "git+https://github.com/swsapiendev/sw-sdk-nodejs.git"
   },
   "license": "MIT",
   "dependencies": {
